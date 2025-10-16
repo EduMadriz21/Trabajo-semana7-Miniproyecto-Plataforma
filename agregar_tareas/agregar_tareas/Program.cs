@@ -11,5 +11,15 @@ namespace agregar_tareas
         public bool Completada { get; set; }
     }
 
-    
+    internal class Program
+    {
+        // Lista estática para almacenar las tareas
+        static List<Tarea> tareas = new List<Tarea>();
+
+
+        /// <summary>
+        /// Permite al usuario agregar una nueva tarea a la lista estática 'tareas'.
+        /// </summary>
+        
+    }
 }
