@@ -10,6 +10,9 @@
 
     internal class Program
     {
+        // Lista estática para almacenar las tareas
+        static List<Tarea> tareas = new List<Tarea>();
+
         static void Main(string[] args)
         {
             
