@@ -15,7 +15,11 @@ namespace TaskManagerProject
         {
             tareas.Add(tarea);
         }
-
+        /// <summary>
+        /// Marca una tarea como completada según su ID.
+        /// </summary>
+        /// <param name="id">ID de la tarea a completar</param>
+        /// <returns>True si se completó, false si no se encontró</returns>
         public bool CompleteTask(int id)
         {
             var tarea = tareas.Find(t => t.Id == id);
