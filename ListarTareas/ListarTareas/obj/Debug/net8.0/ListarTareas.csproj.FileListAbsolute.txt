@@ -1,0 +1,15 @@
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\bin\Debug\net8.0\ListarTareas.exe
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\bin\Debug\net8.0\ListarTareas.deps.json
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\bin\Debug\net8.0\ListarTareas.runtimeconfig.json
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\bin\Debug\net8.0\ListarTareas.dll
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\bin\Debug\net8.0\ListarTareas.pdb
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\ListarTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\ListarTareas.AssemblyInfoInputs.cache
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\ListarTareas.AssemblyInfo.cs
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\ListarTareas.csproj.CoreCompileInputs.cache
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\ListarTareas.sourcelink.json
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\ListarTareas.dll
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\refint\ListarTareas.dll
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\ListarTareas.pdb
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\ListarTareas.genruntimeconfig.cache
+C:\Users\edupm\OneDrive\Escritorio\Minproyecto\ListarTareas\ListarTareas\obj\Debug\net8.0\ref\ListarTareas.dll
