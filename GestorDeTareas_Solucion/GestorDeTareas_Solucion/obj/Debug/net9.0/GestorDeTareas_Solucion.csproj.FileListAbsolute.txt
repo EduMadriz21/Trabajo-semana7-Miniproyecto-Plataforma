@@ -1,0 +1,14 @@
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\bin\Debug\net9.0\GestorDeTareas_Solucion.exe
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\bin\Debug\net9.0\GestorDeTareas_Solucion.deps.json
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\bin\Debug\net9.0\GestorDeTareas_Solucion.runtimeconfig.json
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\bin\Debug\net9.0\GestorDeTareas_Solucion.dll
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\bin\Debug\net9.0\GestorDeTareas_Solucion.pdb
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\obj\Debug\net9.0\GestorDeTareas_Solucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\obj\Debug\net9.0\GestorDeTareas_Solucion.AssemblyInfoInputs.cache
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\obj\Debug\net9.0\GestorDeTareas_Solucion.AssemblyInfo.cs
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\obj\Debug\net9.0\GestorDeTareas_Solucion.csproj.CoreCompileInputs.cache
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\obj\Debug\net9.0\GestorDeTareas_Solucion.dll
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\obj\Debug\net9.0\refint\GestorDeTareas_Solucion.dll
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\obj\Debug\net9.0\GestorDeTareas_Solucion.pdb
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\obj\Debug\net9.0\GestorDeTareas_Solucion.genruntimeconfig.cache
+C:\Users\Naza\Desktop\plataformas-mergeo\GestorDeTareas_Solucion\GestorDeTareas_Solucion\obj\Debug\net9.0\ref\GestorDeTareas_Solucion.dll
